@@ -1,0 +1,5 @@
+Logfile
+
+- Jan 13
+  Today I downloaded and modified the sketch.js file at 11:36 AM
+  I changed the colour of the brush to randomly choose a gresycale value
