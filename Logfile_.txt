@@ -3,3 +3,7 @@ Logfile
 - Jan 13
   Today I downloaded and modified the sketch.js file at 11:36 AM
   I changed the colour of the brush to randomly choose a gresycale value
+
+- Jan 19
+  Today I finished a simple problem in html + javascript at 1:42 pm
+  The program takes a number and output the sum of all numbers less than or equal to it
