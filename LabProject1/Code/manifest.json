@@ -1,0 +1,26 @@
+{
+  "name": "Various web browsing tools",
+  "version": "0.1",
+  "description": "A collection of cosmetic changes you can make to pages you visit",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png"
+    }
+  },
+  "content_scripts": [
+		{
+			"matches": [
+				"<all_urls>"
+      ],
+      "js": ["program.js"]
+    }
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+  "manifest_version": 2
+}

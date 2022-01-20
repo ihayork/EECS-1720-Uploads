@@ -7,3 +7,7 @@ Logfile
 - Jan 19
   Today I finished a simple problem in html + javascript at 1:42 pm
   The program takes a number and output the sum of all numbers less than or equal to it
+
+- Jan 20
+  Today I worked on the first project for a while, stopping at 4:20 pm
+  So far, I've added some options for the extension popup but no scripting has been added yet.
