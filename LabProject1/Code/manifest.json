@@ -11,16 +11,5 @@
       "48": "img/icon48.png"
     }
   },
-  "content_scripts": [
-		{
-			"matches": [
-				"<all_urls>"
-      ],
-      "js": ["program.js"]
-    }
-    ],
-    "background": {
-      "scripts": ["background.js"]
-    },
   "manifest_version": 2
 }

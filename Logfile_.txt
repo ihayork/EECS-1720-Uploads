@@ -11,3 +11,7 @@ Logfile
 - Jan 20
   Today I worked on the first project for a while, stopping at 4:20 pm
   So far, I've added some options for the extension popup but no scripting has been added yet.
+
+- Jan 21
+  Today I worked on the project a little more, but I didn't make much progress.
+  I'm going to stop working for today and try to tackle it again tomorrow with a fresh angle.
