@@ -1,15 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
-    var hyperlinkColour = document.getElementById('hyperlinkColour');
-    hyperinkColour.addEventListener('change', function() {
-        var hyperlinkColourSelect = document.getElementById('hyperlinkColourSelect')
-        
-        chrome.tabs.getSelected(null, function(tab) {
-            var listOfElements = document.getElementsByTagName("a");
+    document.getElementById('hyperlinkColor').addEventListener('click', hyperlinkColor, false);
+    //more buttons here
 
-            for (i = 0; i < listOfElements.length; i++) {
-                listOfElements[i].style.color = hyperlinkColourSelect.value;
-            }
-
+    function hyperlinkColor() {
+        var selectedColor = document.getElementById('hyperlinkColorSelect').value;
+        chrome.tabs.query({currentWindow: true, active: true}, 
+        function(tabs) {
+            var currTab = tabs[0];
+            chrome.tabs.sendMessage(currTab.id, {
+                pack1: "hyperlinkColor",
+                pack2: selectedColor
+            });
         });
-    }, false);
+    }
+    //more functions here
+
 }, false);

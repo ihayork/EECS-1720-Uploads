@@ -15,3 +15,8 @@ Logfile
 - Jan 21
   Today I worked on the project a little more, but I didn't make much progress.
   I'm going to stop working for today and try to tackle it again tomorrow with a fresh angle.
+
+- Jan 22
+  Today I worked on the project more. I finally made progress.
+  So far, you can change the colour of all hyperlinks on a page to any colour you choose.
+  All my code is written from scratch, so I still haven't figured out how to make the changes persist through tabs or reloads.
