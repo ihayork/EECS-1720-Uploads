@@ -20,3 +20,7 @@ Logfile
   Today I worked on the project more. I finally made progress.
   So far, you can change the colour of all hyperlinks on a page to any colour you choose.
   All my code is written from scratch, so I still haven't figured out how to make the changes persist through tabs or reloads.
+
+- Jan 23
+  I didn't upload any code today, but I did some research on accessing chrome storage and played around a bit.
+  The code wasn't structured enough to upload, so I'm keeping what I had from yesterday.
