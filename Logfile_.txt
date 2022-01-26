@@ -24,3 +24,7 @@ Logfile
 - Jan 23
   I didn't upload any code today, but I did some research on accessing chrome storage and played around a bit.
   The code wasn't structured enough to upload, so I'm keeping what I had from yesterday.
+
+- Jan 26
+  Today I worked on the project some more. I added functionality to change the colour of all text and headings as well.
+  I also added a function to return the number of times a chosen string occurs in the HTML document.
