@@ -28,3 +28,7 @@ Logfile
 - Jan 26
   Today I worked on the project some more. I added functionality to change the colour of all text and headings as well.
   I also added a function to return the number of times a chosen string occurs in the HTML document.
+
+- Jan 30
+  Today I did some more brainstorming on more functions for the extension, as well as mockups for the icon.
+  I didn't upload anything yet though.
