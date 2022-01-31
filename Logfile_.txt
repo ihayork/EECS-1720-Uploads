@@ -32,3 +32,7 @@ Logfile
 - Jan 30
   Today I did some more brainstorming on more functions for the extension, as well as mockups for the icon.
   I didn't upload anything yet though.
+
+- Jan 31
+  Today I uploaded an icon for my browser extension project.
+  I also wrote a readme/statement for the extension and put it in the folder.
