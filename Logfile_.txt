@@ -36,3 +36,7 @@ Logfile
 - Jan 31
   Today I uploaded an icon for my browser extension project.
   I also wrote a readme/statement for the extension and put it in the folder.
+
+- Feb 7
+  Today I wrote some code that calculates how many points a basketball team scored.
+  The user enters the number of 2-pointers and the number of 3-pointers and is returned the total score.
