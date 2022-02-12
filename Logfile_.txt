@@ -37,6 +37,8 @@ Logfile
   Today I uploaded an icon for my browser extension project.
   I also wrote a readme/statement for the extension and put it in the folder.
 
+--Between: Worked on class work
+
 - Feb 7
   Today I wrote some code that calculates how many points a basketball team scored.
   The user enters the number of 2-pointers and the number of 3-pointers and is returned the total score.
@@ -44,3 +46,6 @@ Logfile
 - Feb 8
   Today I followed along with the code we wrote in class.
   I wrote it in processing myself, and tweaked it until it worked.
+
+- Feb 12
+  Today and yesterday I brainstormed with my team for our group project phase 1.
