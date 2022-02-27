@@ -50,5 +50,8 @@ Logfile
 - Feb 12
   Today and yesterday I brainstormed with my team for our group project phase 1.
 
-- Feb 13 - present
+- Feb 13 - 22
   Working on lab project 2...
+  
+- Feb 27
+  Did some work on my bot but didn't upload, just for playing around with the API some more
