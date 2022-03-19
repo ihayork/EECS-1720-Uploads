@@ -55,3 +55,6 @@ Logfile
   
 - Feb 27
   Did some work on my bot but didn't upload, just for playing around with the API some more
+  
+- Mar 19
+  I don't use this file anymore, hopefully the commit history on my main page is enough
